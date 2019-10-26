@@ -1,14 +1,27 @@
 const api = require('./api');
-
-module.exports = function switchCase(answers) {
+const inquirer = require('inquirer');
+module.exports = async function switchCase(answers) {
     switch (answers.type) {
       case 'movie':
-        api.Movies();
+        const movie = await userInput();
+        api.Movies(movie.subject);
         break;
       case 'song':
         api.Spotify();
         break;
       case 'concert':
-        api.Bands()
+        const band = await userInput();
+        api.Bands(band.subject);
+        break;
     }
+  };
+
+ async function userInput() {
+     const answer = await inquirer.prompt([
+      {
+        name: 'subject',
+        message: 'Enter search',
+      },
+    ]);
+    return answer;
   };
