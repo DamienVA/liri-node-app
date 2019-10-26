@@ -7,7 +7,8 @@ module.exports = async function switchCase(answers) {
         api.Movies(movie.subject);
         break;
       case 'song':
-        api.Spotify();
+        const song = await userInput();
+        api.Spotify(song.subject);
         break;
       case 'concert':
         const band = await userInput();
