@@ -11,7 +11,7 @@ function searchFor() {
       name: 'type',
       message: 'What do you want to search?',
       type: 'list',
-      choices: ['movie', 'song', 'concert'],
+      choices: ['movie', 'song', 'concert', 'do-it'],
       default: 'song',
     },
   ]);

@@ -1,0 +1,29 @@
+---------------------------
+      Title: It
+      Year: 2017
+      Country: USA, Canada
+      IMDB: 7.4/10
+      Rotten Tomato: 86%
+      Language: English
+      Plot: In the summer of 1989, a group of bullied kids band together to destroy a shape-shifting monster, which disguises itself as a clown and preys on the children of Derry, their small Maine town.
+      Actors: Jaeden Martell, Jeremy Ray Taylor, Sophia Lillis, Finn Wolfhard
+      ---------------------------
+      Title: It
+      Year: 2017
+      Country: USA, Canada
+      IMDB: 7.4/10
+      Rotten Tomato: 86%
+      Language: English
+      Plot: In the summer of 1989, a group of bullied kids band together to destroy a shape-shifting monster, which disguises itself as a clown and preys on the children of Derry, their small Maine town.
+      Actors: Jaeden Martell, Jeremy Ray Taylor, Sophia Lillis, Finn Wolfhard
+      ---------------------------
+      Venue Name: The Bottleneck
+      Venue Country: United States
+      Venue City, State: Lawrence, KS
+      Date: Oct 26th 2019
+      ---------------------------
+      Title: Hercules
+      Artist: Young Thug
+      Album: I'm Up
+      Preview: https://p.scdn.co/mp3-preview/a0a0983cbaa7dce44184fb69169fe060262356c6?cid=d66f8ede55a844469b69c6aa7cd2a08c
+      

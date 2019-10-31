@@ -1,4 +1,4 @@
-console.log('this is loaded');
+console.log('Thanks for using liri!');
 
 exports.spotify = {
   id: process.env.SPOTIFY_ID,
